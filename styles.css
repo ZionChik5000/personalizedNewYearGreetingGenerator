@@ -80,6 +80,7 @@ h1 {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
+  margin: 30px;
   margin-bottom: 60px;
   text-align: center;
 }
